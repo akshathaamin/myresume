@@ -1,0 +1,53 @@
+#header{
+    display: grid;
+    grid-template-columns: 3fr 6fr;
+    background-color:palevioletred;
+    border: solid black;
+    color: black;
+}
+#img1{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.container{
+    margin-left: 300px;
+    margin-bottom: 20px;
+    margin-right: 300px;
+    
+}
+.row{
+    display: grid;
+    background-color:palevioletred;
+    color:black;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: solid black;
+    
+}
+#one{
+    color:black;
+    
+}
+
+#table{
+    
+    margin-left: 350px;
+    margin-right: 350px;
+    align-content: center;
+    margin-bottom: 12px;
+    border: solid black;
+    
+}
+#sign{
+    text-align: right;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top:5px ;
+
+
